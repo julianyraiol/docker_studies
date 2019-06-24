@@ -1,13 +1,10 @@
-# docker_studies
+# docker studies
 
 Repositório para compartilhar assuntos sobre docker
 
 ![neil](https://cdn.dribbble.com/users/1008970/screenshots/6140230/blog_post_docker.gif)
 
-```
-|-- README.md
-|-- docker.md
-```
+
 
 ### Tópicos
 
